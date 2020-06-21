@@ -163,7 +163,7 @@ nav .side-elements{
     width: 100%;
     height: 93vh;
     margin-top: 7vh;
-    background-image: url("/imgs/2.jpg");
+    background-image: url("https://github.com/amrbaligh/Full2/blob/master/imgs/2.jpg?raw=true");
     display: flex;
     justify-content: center;
     background-size: cover;
@@ -256,7 +256,7 @@ main .div{
     background-color: #ffffff;
     border: 1rem solid #ffffff;
     box-shadow: inset 0rem 0.2rem 0.7rem 0rem #000000, -0.2rem -0.2rem 0.9rem 0px #565555cc;
-    background-image: url("/imgs/advice.jpg");
+    background-image: url("https://github.com/amrbaligh/Full2/blob/master/imgs/advice.jpg?raw=true");
     background-size: cover;
 }
 
@@ -356,7 +356,7 @@ main .div{
 
     /* ---------------------------------------------------------- SLIDER ----------------------------------------------------------*/
     .slider{
-        background-image: url("/imgs/2.jpg");
+        background-image: url("https://github.com/amrbaligh/Full2/blob/master/imgs/2.jpg?raw=true");
         background-size: cover ;
         background-position: -55vw 0rem;
     }
@@ -442,7 +442,7 @@ main .div{
     }
     /* ---------------------------------------------------------- SLIDER ----------------------------------------------------------*/
     .slider{
-        background-image: url("/imgs/2.jpg");
+        background-image: url("https://github.com/amrbaligh/Full2/blob/master/imgs/2.jpg?raw=true");
         background-size: cover;
     }
     .slider .slider-text{
